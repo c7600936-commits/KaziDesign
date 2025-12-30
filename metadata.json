@@ -1,0 +1,7 @@
+{
+  "name": "KaziDesign - Kenya Interior Design Workflow",
+  "description": "A comprehensive professional workflow management tool for interior designers in the Kenyan market, covering the full project lifecycle from onboarding to handover with localized insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
